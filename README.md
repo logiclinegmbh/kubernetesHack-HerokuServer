@@ -1,4 +1,4 @@
-# logicline-night-hacking-server
+# kubernetes-hack-night-server
 
 
 Simple backend for the logicline hacking night.
